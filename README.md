@@ -96,4 +96,6 @@ Cape Peninsula University of Technology
 ---
 ## 🎥 Video Demo
 
-[▶️ Watch My Demo Video](./demo-video.mp4)
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
