@@ -94,3 +94,6 @@ Cape Peninsula University of Technology
  021 876 2079  
 
 ---
+## 🎥 Video Demo
+
+[▶️ Watch My Demo Video](./demo-video.mp4)
