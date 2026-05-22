@@ -3,28 +3,30 @@
 📍 Stellenbosch, South Africa
 📞 082 409 3903
 📧 [230398863@mycput.ac.za](mailto:230398863@mycput.ac.za)
-🔗 GitHub: https://github.com/Matthew-Barron
+🔗 [GitHub Profile](https://github.com/Matthew-Barron)
 
 ---
 
-## Profile
+# Profile
 
 Passionate Software Development student in the final year of study with hands-on experience in Java, Python, and web development. Skilled in building practical applications, solving real-world problems, and continuously improving technical abilities. Eager to gain industry experience through an internship or junior developer role where I can contribute, learn, and grow.
 
 ---
 
-## Education
+# Education
 
-**Diploma in Application Development**
-Cape Peninsula University of Technology
+## Diploma in Application Development
+
+**Cape Peninsula University of Technology**
 2024 – Present
 
-**Franschhoek High School**
+## Franschhoek High School
+
 2012 – 2022
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 * **Programming Languages:** Java, Python, SQL
 * **Web Development:** HTML, CSS, JavaScript, WordPress
@@ -33,44 +35,42 @@ Cape Peninsula University of Technology
 
 ---
 
-## Experience
+# Experience
 
-### Freelance Web Developer – Expedite Consulting
+## Freelance Web Developer – Expedite Consulting
 
-Mar 2024 – Mar 2025
+**Mar 2024 – Mar 2025**
 
-**Web Development & Content Management**
+### Web Development & Content Management
 
 * Designed and updated website content based on client requirements
 * Improved layout and usability for better user experience
 
-**WordPress & Hosting**
+### WordPress & Hosting
 
 * Set up and customized WordPress websites
 * Configured hosting environments for deployment
 
-**Client Communication**
+### Client Communication
 
 * Gathered and clarified client requirements
 * Delivered updates and met deadlines consistently
 
-**Testing & Maintenance**
+### Testing & Maintenance
 
 * Tested website functionality and fixed minor technical issues
 
 ---
 
-## Projects
+# Projects
 
-### Web Development Project (HTML, CSS & WordPress)
+## Web Development Project (HTML, CSS & WordPress)
 
 * Built responsive web pages and customized WordPress themes
 * Updated content and configured hosting
 * Focused on clean design and usability
 
----
-
-### Java Application Development
+## Java Application Development
 
 * Developed a console-based Java application
 * Used OOP principles, arrays, loops, and methods
@@ -78,7 +78,7 @@ Mar 2024 – Mar 2025
 
 ---
 
-## Key Strengths
+# Key Strengths
 
 * Strong problem-solving skills
 * Attention to detail
@@ -88,7 +88,7 @@ Mar 2024 – Mar 2025
 
 ---
 
-## Current Focus
+# Current Focus
 
 * Expanding web development skills (JavaScript & modern frameworks)
 * Building real-world portfolio projects
@@ -96,21 +96,25 @@ Mar 2024 – Mar 2025
 
 ---
 
-## References
+# References
 
-**Dawood (Client)**
-083 771 1984
+## Dawood (Client)
 
-**Franschhoek High School**
-021 876 2079
+📞 083 771 1984
+
+## Franschhoek High School
+
+📞 021 876 2079
 
 ---
 
-## 🎥 Video Demo
+# Mock Interview Video
 
+```html
 <video width="600" controls>
   <source src="demo.mp4" type="video/mp4">
 </video>
+```
 
 ---
 
