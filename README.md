@@ -113,7 +113,6 @@ Passionate Software Development student in the final year of study with hands-on
 
 <video width="700" controls>
   <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
